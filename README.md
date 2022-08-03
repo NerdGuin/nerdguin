@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Communital**
 
-- 📫 How to reach me **vitor.#2964**
+- 📫 How to reach me **rotiv#2964**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
