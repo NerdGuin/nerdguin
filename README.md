@@ -1,5 +1,5 @@
+<h1 align="center">🌟 Full-Stack Developer</h1>
 <br>
-<p align="center" style="margin-top: -15px; user-select: none;font-size: 128px; font-weight: 600">🌟 Full-Stack Developer</p>
 <div align="center" style="user-select: none;">
     <h2>Linguagens e Ferramentas</h2>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original-wordmark.svg" width="50" height="50"/>
