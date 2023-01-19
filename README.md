@@ -1,8 +1,5 @@
 <br>
-<p align="center" style="user-select: none;">
-  <img src="https://cdn.discordapp.com/avatars/684435700229079121/163f58f0acce707681a5c4f78bcdd783.png?size=128" style="border-radius: 50px;" />
-</p>
-<p align="center" style="margin-top: -15px; user-select: none;font-size: 32px; font-weight: 600">🌟 Full-Stack Developer</p>
+<p align="center" style="margin-top: -15px; user-select: none;font-size: 128px; font-weight: 600">🌟 Full-Stack Developer</p>
 <div align="center" style="user-select: none;">
     <h2>Linguagens e Ferramentas</h2>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original-wordmark.svg" width="50" height="50"/>
