@@ -1,7 +1,7 @@
 <h1 align="center">🌟 Full-Stack Developer</h1>
 <br>
 <div align="center" style="user-select: none;">
-    <h2>Linguagens e Ferramentas</h2>
+    <h2>Languages ​​and Tools</h2>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original-wordmark.svg" width="50" height="50"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50" height="50"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50"/>
@@ -23,6 +23,4 @@
 </div>
 <br>
 <div align="center" style="user-select: none;">
-<h2>Redes Sociais</h2>
-<a href="https://www.youtube.com/@NerdGuin" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 </div>
