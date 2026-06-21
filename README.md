@@ -2,7 +2,7 @@
 import Developer from 'nerdguin';
 
 class AboutMe extends Developer {
-  age        = 21
+  age        = 21;
   work       = false;
   locality   = 'Brazil';
   english    = 'Basic';
