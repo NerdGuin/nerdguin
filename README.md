@@ -12,7 +12,7 @@ class AboutMe extends Developer {
 
 class Skills extends Developer {
   systems        = ['Windows', 'Linux'];
-  frameworks     = ['Bootstrap', 'tailwindcss', 'React', 'Angular'];
+  frameworks     = ['Bootstrap', 'React', 'SocketIO', 'BCrypt', 'Express', 'Fastify', 'HTTP', 'HTTPS'];
   cloud          = ['Vercel', 'Render', 'AWS', 'Google Cloud', 'Azure'];
   languages      = ['TypeScript', 'HTML', 'CSS', 'JavaScript', 'Java', 'Python', 'C#', 'C++'];
   database       = ['MongoDB', 'MySQL', 'SQLite'];
