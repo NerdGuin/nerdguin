@@ -2,11 +2,11 @@
 import Developer from 'nerdguin';
 
 class AboutMe extends Developer {
+  name       = 'Victor';
   age        = 21;
   work       = false;
   locality   = 'Brazil';
   english    = 'Basic';
-  name       = 'Victor';
   linkedin   = 'https://www.linkedin.com/in/vitorrj';
 }
 
